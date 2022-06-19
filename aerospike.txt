@@ -1,2 +1,1 @@
-bin5
-1.1.4-SNAPSHOT
+bin6
